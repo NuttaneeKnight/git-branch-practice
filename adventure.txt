@@ -3,3 +3,5 @@ we will see merge conflict
 Socrates
 Joan of Arc
 Abraham Lincoln
+
+merging conflict
